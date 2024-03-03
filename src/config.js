@@ -21,6 +21,8 @@ const config = {
         level: 'debug'
     }
 };
+console.log('config.js');
+console.log('version1.0');
 
 // Export the configuration object
 module.exports = config;
