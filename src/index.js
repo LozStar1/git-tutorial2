@@ -6,4 +6,4 @@ function greet(name) {
 }
 
 // Example usage
-greet('World');
+greet('Lauren');

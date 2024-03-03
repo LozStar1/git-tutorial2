@@ -22,7 +22,7 @@ const config = {
     }
 };
 console.log('config.js');
-console.log('version1.2');
+console.log('version1.3');
 
 // Export the configuration object
 module.exports = config;
